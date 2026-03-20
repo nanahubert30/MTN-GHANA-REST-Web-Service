@@ -1,2 +1,2 @@
-# -MTN-GHANA-REST-Web-Service-Client
-# MTN-GHANA-REST-Web-Service
+MTN Ghana – REST Web Service Console
+REST API · PHP cURL · SimpleXML · MySQL · XML Responses
