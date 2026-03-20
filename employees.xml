@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<!--
+  ============================================================
+  MTN GHANA – Employees Data
+  File    : employees.xml
+  Path    : C:\xampp\htdocs\REST_Web_Service\employees.xml
+  Paired  : employees.xsl
+  Source  : mtn_ghana database › employees table
+  Records : 9
+  ============================================================
+-->
+<employees total="9" generated="2026-03-14" source="mtn_ghana.employees">
+
+  <employee>
+    <id>1</id>
+    <staff_id>MTN-GH-0001</staff_id>
+    <full_name>Kwame Mensah</full_name>
+    <department>Technology</department>
+    <job_title>Senior Software Engineer</job_title>
+    <email>k.mensah@mtn.com.gh</email>
+    <phone>0244001001</phone>
+    <salary_ghs>8500.00</salary_ghs>
+    <hire_date>2019-03-15</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>2</id>
+    <staff_id>MTN-GH-0002</staff_id>
+    <full_name>Abena Osei</full_name>
+    <department>Marketing</department>
+    <job_title>Marketing Manager</job_title>
+    <email>a.osei@mtn.com.gh</email>
+    <phone>0244001002</phone>
+    <salary_ghs>7200.00</salary_ghs>
+    <hire_date>2018-07-01</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>3</id>
+    <staff_id>MTN-GH-0003</staff_id>
+    <full_name>Kofi Agyeman</full_name>
+    <department>Finance</department>
+    <job_title>Finance Analyst</job_title>
+    <email>k.agyeman@mtn.com.gh</email>
+    <phone>0244001003</phone>
+    <salary_ghs>6800.00</salary_ghs>
+    <hire_date>2020-01-10</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>4</id>
+    <staff_id>MTN-GH-0004</staff_id>
+    <full_name>Ama Asante</full_name>
+    <department>Human Resources</department>
+    <job_title>HR Business Partner</job_title>
+    <email>a.asante@mtn.com.gh</email>
+    <phone>0244001004</phone>
+    <salary_ghs>6500.00</salary_ghs>
+    <hire_date>2021-05-20</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>5</id>
+    <staff_id>MTN-GH-0005</staff_id>
+    <full_name>Yaw Boateng</full_name>
+    <department>Technology</department>
+    <job_title>Network Engineer</job_title>
+    <email>y.boateng@mtn.com.gh</email>
+    <phone>0244001005</phone>
+    <salary_ghs>7800.00</salary_ghs>
+    <hire_date>2017-11-03</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>6</id>
+    <staff_id>MTN-GH-0006</staff_id>
+    <full_name>Akosua Darko</full_name>
+    <department>Customer Care</department>
+    <job_title>Customer Experience Lead</job_title>
+    <email>a.darko@mtn.com.gh</email>
+    <phone>0244001006</phone>
+    <salary_ghs>5900.00</salary_ghs>
+    <hire_date>2022-02-14</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>7</id>
+    <staff_id>MTN-GH-0007</staff_id>
+    <full_name>Nana Amponsah</full_name>
+    <department>Legal</department>
+    <job_title>Corporate Counsel</job_title>
+    <email>n.amponsah@mtn.com.gh</email>
+    <phone>0244001007</phone>
+    <salary_ghs>9200.00</salary_ghs>
+    <hire_date>2016-08-22</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>8</id>
+    <staff_id>MTN-GH-0008</staff_id>
+    <full_name>Efua Quaye</full_name>
+    <department>Technology</department>
+    <job_title>Data Scientist</job_title>
+    <email>e.quaye@mtn.com.gh</email>
+    <phone>0244001008</phone>
+    <salary_ghs>8100.00</salary_ghs>
+    <hire_date>2020-09-07</hire_date>
+    <status>active</status>
+  </employee>
+
+  <employee>
+    <id>9</id>
+    <staff_id>MTN-GH-0009</staff_id>
+    <full_name>Kofi Boateng</full_name>
+    <department>Technology</department>
+    <job_title>DevOps Engineer</job_title>
+    <email>k.boateng@mtn.com.gh</email>
+    <phone>0244001009</phone>
+    <salary_ghs>7500.00</salary_ghs>
+    <hire_date>2024-01-15</hire_date>
+    <status>active</status>
+  </employee>
+
+</employees>

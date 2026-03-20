@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+<!--
+  ============================================================
+  MTN GHANA – Company Profile Data
+  File    : company.xml
+  Path    : C:\xampp\htdocs\soap_service\company.xml
+  Paired  : company.xsl
+  Source  : mtn_ghana database › company_profile table
+  Records : 1
+  ============================================================
+-->
+<company_profile generated="2026-03-14" source="mtn_ghana.company_profile">
+
+  <company>
+    <id>1</id>
+    <company_name>MTN Ghana Limited</company_name>
+    <founded>1994</founded>
+    <headquarters>Accra, Greater Accra Region, Ghana</headquarters>
+    <ceo>Selorm Adadevoh</ceo>
+    <subscribers>28+ million</subscribers>
+    <network_type>4G LTE / 5G (pilot)</network_type>
+    <momo_service>MTN Mobile Money (MoMo)</momo_service>
+    <stock_exchange>Ghana Stock Exchange (MTNGH)</stock_exchange>
+    <parent_company>MTN Group (South Africa)</parent_company>
+    <website>https://www.mtn.com.gh</website>
+    <short_codes>
+      <code service="check_balance">*556#</code>
+      <code service="data_bundle">*138#</code>
+      <code service="momo">*170#</code>
+      <code service="customer_care">100</code>
+    </short_codes>
+  </company>
+
+</company_profile>

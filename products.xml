@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+<!--
+  ============================================================
+  MTN GHANA – Products Data
+  File    : products.xml
+  Path    : C:\xampp\htdocs\REST_Web_Service\products.xml
+  Paired  : products.xsl
+  Source  : mtn_ghana database › products table
+  Records : 7
+  ============================================================
+-->
+<products total="7" generated="2026-03-14" source="mtn_ghana.products">
+
+  <product>
+    <id>1</id>
+    <product_code>MTN-VOICE-01</product_code>
+    <product_name>MTN All Network Bundle</product_name>
+    <category>voice</category>
+    <price_ghs>15.00</price_ghs>
+    <description>Talk to all networks – 30 days</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>2</id>
+    <product_code>MTN-DATA-01</product_code>
+    <product_name>MTN Daily 1GB</product_name>
+    <category>data</category>
+    <price_ghs>3.00</price_ghs>
+    <description>1 GB data – valid 24 hours</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>3</id>
+    <product_code>MTN-DATA-02</product_code>
+    <product_name>MTN Weekly 5GB</product_name>
+    <category>data</category>
+    <price_ghs>20.00</price_ghs>
+    <description>5 GB data – valid 7 days</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>4</id>
+    <product_code>MTN-DATA-03</product_code>
+    <product_name>MTN Monthly 15GB</product_name>
+    <category>data</category>
+    <price_ghs>70.00</price_ghs>
+    <description>15 GB data – valid 30 days</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>5</id>
+    <product_code>MTN-MOMO-01</product_code>
+    <product_name>MoMo Premium Wallet</product_name>
+    <category>momo</category>
+    <price_ghs>0.00</price_ghs>
+    <description>Free premium mobile money wallet</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>6</id>
+    <product_code>MTN-ROAM-01</product_code>
+    <product_name>Africa Roaming Pack</product_name>
+    <category>roaming</category>
+    <price_ghs>50.00</price_ghs>
+    <description>Roam across 15 African countries</description>
+    <is_active>1</is_active>
+  </product>
+
+  <product>
+    <id>7</id>
+    <product_code>MTN-DEV-01</product_code>
+    <product_name>4G LTE Wi-Fi Router</product_name>
+    <category>device</category>
+    <price_ghs>350.00</price_ghs>
+    <description>MTN branded 4G Wi-Fi router</description>
+    <is_active>1</is_active>
+  </product>
+
+</products>

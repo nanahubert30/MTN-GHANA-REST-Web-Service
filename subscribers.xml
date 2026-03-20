@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="subscribers.xsl"?>
+<!--
+  ============================================================
+  MTN GHANA – Subscribers Data
+  File    : subscribers.xml
+  Path    : C:\xampp\htdocs\REST_Web_Service\subscribers.xml
+  Paired  : subscribers.xsl
+  Source  : mtn_ghana database › subscribers table
+  Records : 6
+  ============================================================
+-->
+<subscribers total="6" generated="2026-03-14" source="mtn_ghana.subscribers">
+
+  <subscriber>
+    <id>1</id>
+    <msisdn>0244100001</msisdn>
+    <full_name>Esi Nyarko</full_name>
+    <region>Greater Accra</region>
+    <id_type>Ghana Card</id_type>
+    <status>active</status>
+    <created_at>2026-03-11 12:23:39</created_at>
+  </subscriber>
+
+  <subscriber>
+    <id>2</id>
+    <msisdn>0554200002</msisdn>
+    <full_name>Kwabena Frimpong</full_name>
+    <region>Ashanti</region>
+    <id_type>Voter ID</id_type>
+    <status>active</status>
+    <created_at>2026-03-11 12:23:39</created_at>
+  </subscriber>
+
+  <subscriber>
+    <id>3</id>
+    <msisdn>0244300003</msisdn>
+    <full_name>Maame Sarpong</full_name>
+    <region>Western</region>
+    <id_type>Ghana Card</id_type>
+    <status>active</status>
+    <created_at>2026-03-11 12:23:39</created_at>
+  </subscriber>
+
+  <subscriber>
+    <id>4</id>
+    <msisdn>0594400004</msisdn>
+    <full_name>Fiifi Mensah</full_name>
+    <region>Central</region>
+    <id_type>Passport</id_type>
+    <status>active</status>
+    <created_at>2026-03-11 12:23:39</created_at>
+  </subscriber>
+
+  <subscriber>
+    <id>5</id>
+    <msisdn>0244500005</msisdn>
+    <full_name>Adwoa Asamoah</full_name>
+    <region>Eastern</region>
+    <id_type>Ghana Card</id_type>
+    <status>active</status>
+    <created_at>2026-03-11 12:23:39</created_at>
+  </subscriber>
+
+  <subscriber>
+    <id>6</id>
+    <msisdn>0244600006</msisdn>
+    <full_name>Kweku Asare</full_name>
+    <region>Volta</region>
+    <id_type>Ghana Card</id_type>
+    <status>active</status>
+    <created_at>2026-03-14 16:00:39</created_at>
+  </subscriber>
+
+</subscribers>
